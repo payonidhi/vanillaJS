@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+}
+h1{
+    background-color: beige;
+    text-align: center;
+}
+#btn{
+    padding: 15px;
+    margin: 20px;
+    border-radius: 15px;
+    font-size: large;
+}
+#btn:hover{
+    background-color: darkolivegreen;
+    cursor: pointer;
+}
+#output{
+    text-align: center;
+    font-size: large;
+    color: black;
+}
